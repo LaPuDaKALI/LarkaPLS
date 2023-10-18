@@ -1,0 +1,30 @@
+site_name: Larka Project
+theme:
+  logo: img/images.png
+
+  features:
+    - content.code.copy
+    - toc.integrate
+    - navigation.top
+    - navigation.prune
+    - navigation.tabs
+    - navigation.sevtions
+    - search.highlight
+    - search suggest
+    - content.code.anitation
+
+  name: material
+
+  palette:
+   primary: red
+
+extra:
+  social:
+  - icon: fontawesome/brands/instagram
+    link: https://www.instagram.com/larka1791/?hl=id
+
+markdown_extensions:
+  - attr_list
+  - tables
+
+
